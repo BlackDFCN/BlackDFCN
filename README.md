@@ -5,86 +5,91 @@
 </div>
 
 <h3 align="center">
-  Hola, soy Bastian Tapia
+  Hola, soy Bastián Tapia
 </h3>
 
 <p align="center">
-  <strong>Ingeniero de Software Full Stack | Enfoque Backend & DevOps</strong><br/>
-  Construcción de sistemas escalables · Automatización · Desarrollo completo de productos
+  <strong>Ingeniero en Computación e Informática | Desarrollador Full Stack</strong><br/>
+  Construcción de sistemas escalables · Clean Code & SOLID · Automatización
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BastianTapia.BastianTapia" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BastianTapia.BastianTapiaCV" />
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy **Ingeniero de Software Full Stack** con experiencia en **desarrollo backend, infraestructura en la nube y automatización**.  
-Construyo **sistemas de punta a punta**: APIs, bases de datos, interfaces web e infraestructura. Priorizo **escalabilidad, rendimiento, seguridad y mantenibilidad**.
+Soy **Ingeniero en Ejecución en Computación e Informática** y **Desarrollador Full Stack**. Me especializo en el desarrollo de sistemas web, aplicaciones y soluciones de automatización utilizando tecnologías modernas de frontend y backend.
 
-Tengo experiencia en **proyectos reales en producción**, tanto personales/comerciales como **BlackBOT**, y profesional en **ICONSTRUYE**.  
-Me motiva la resolución de problemas, el aprendizaje continuo y entregar soluciones que generen **valor real** para los usuarios.
-
-Busco oportunidades para:
-- Trabajo remoto o presencial  
-- Proyectos freelance  
-- Desarrollo completo de productos de principio a fin
+Construyo **soluciones de punta a punta**: APIs, plataformas web y servicios integrados con sistemas externos, diseñando sistemas escalables, eficientes y mantenibles. Trabajo aplicando principios **SOLID**, **Clean Code** y buenas prácticas de ingeniería de software, con enfoque en rendimiento, calidad del código y desarrollo de productos robustos en entornos ágiles.
 
 ---
 
-## Proyectos Destacados
+## Experiencia Laboral
 
-### 1. BlackBOT — Plataforma de Automatización para Discord
+### Desarrollador Full Stack | Freelance (Personal)
+*Dic. 2025 — Presente | Remoto, Chile*
 
-**BlackBOT** es un **bot de Discord y plataforma web altamente escalable**, diseñado para gestión de comunidades y streamers.
+*   **Plataforma SaaS**: Desarrollo de una plataforma SaaS para la gestión y automatización de comunidades digitales.
+*   **Arquitectura Multi-tenant**: Diseño de arquitectura con instancias independientes por comunidad sobre una lógica central reutilizable.
+*   **Escalabilidad**: Evolución de soluciones a medida hacia un producto escalable para múltiples comunidades.
+*   **Integración y Automatización**: Integración con plataformas externas para flujos en tiempo real y ejecución de procesos automatizados.
+*   **Panel Administrativo**: Construcción de paneles para gestión de usuarios, configuraciones y funcionalidades.
+*   **Optimización**: Implementación de rate limiting, control de uso y optimización de rendimiento para alta concurrencia.
 
-**Detalles técnicos:**
-- **Arquitectura Monorepo** con workspaces de npm y TurboRepo para orquestar tareas  
-- **Aplicaciones**: 
-  - `apps/bot` — Bot de Discord en TypeScript con arquitectura modular (features, helpers, i18n, validaciones, logging, manejo de errores)  
-  - `apps/web` — Aplicación web Next.js con Tailwind CSS, autenticación, dashboard, hooks y soporte multilenguaje
-- **Packages**: Módulos compartidos como database (Supabase), i18n (10 idiomas), auth, billing, UI  
-- **DevOps & CI/CD**: Docker, docker-compose, scripts de despliegue, workflows en GitHub Actions  
-- **Buenas prácticas**: Código modular, TypeScript estricto, variables de entorno seguras, ESLint + Prettier + Husky + lint-staged  
-- **Stack**: Node.js, TypeScript, Next.js, React, Tailwind CSS, Supabase, Docker, TurboRepo, discord.js
+### Desarrollador Full Stack | Freelance
+*Ene. 2025 — Jul. 2025 | Remoto, Chile*
+
+*   **Comunidad Digital**: Desarrollo de plataforma full stack a medida para la gestión de una comunidad.
+*   **Ecosistema Discord**: Diseño de sistema centralizado sobre Discord administrado mediante panel web.
+*   **Integración de API**: Desarrollo de servicios automatizados desde cero e integración con la API de Discord para moderación y eventos.
+*   **Engagement**: Implementación de sistemas de anuncios, sorteos, comandos personalizados, roles y recompensas.
+*   **Stack**: Integración con Supabase para datos y autenticación, con mecanismos de estabilidad y rate limiting.
+
+### Desarrollador Full Stack | IConstruye
+*Oct. 2024 — Dic. 2024 | Híbrido, Región Metropolitana*
+
+*   **Backstage**: Lideré la adopción e implementación de Backstage como plataforma interna de gestión de TI.
+*   **Azure DevOps**: Integré Backstage con Azure DevOps para trazabilidad del ciclo de desarrollo.
+*   **Documentación y Capacitación**: Elaboración de documentación técnica estandarizada y capacitación del equipo.
+*   **Agilidad**: Colaboración activa en entornos ágiles multidisciplinarios.
 
 ---
 
-### 2. ICONSTRUYE — Proyecto Profesional Full Stack
+## Educación
 
-**Rol:** Desarrollador Full Stack Jr.  
-**Duración:** Oct 2024 – Dic 2024
-
-- Lideré la adopción e implementación de **Backstage** para centralizar la gestión de proyectos  
-- Integré Backstage con **Azure DevOps**, mejorando la eficiencia del equipo y la trazabilidad de los proyectos  
-- Generé documentación técnica estandarizada y facilité la capacitación del equipo  
-- Tecnologías: Node.js, TypeScript, Docker, Azure DevOps, Backstage, Git
+*   **Ingeniería de ejecución en Computación e Informática** | Universidad Católica del Maule *(2021 — 2025)*
+*   **Técnico Profesional en Telecomunicaciones** | Colegio Juan Piamarta *(2019 — 2020)*
 
 ---
 
 ## Habilidades & Stack
 
-**Lenguajes:** TypeScript, JavaScript, Python  
-**Backend:** Node.js, NestJS, Express, Fastify, APIs REST, WebSockets  
-**Bases de datos:** PostgreSQL, MySQL, MongoDB, Redis  
-**DevOps & Infraestructura:** Docker, CI/CD, VPS, Cloud, Linux  
-**Frontend & UI:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
-**Otros:** Supabase, Discord.js, TurboRepo, ESLint, Prettier, Husky, lint-staged, PostCSS
+*   **Lenguajes:** TypeScript, JavaScript, HTML5, CSS3
+*   **Frontend:** React, Next.js
+*   **Backend:** Node.js, NestJS
+*   **Bases de Datos:** PostgreSQL
+*   **Infraestructura & DevOps:** Docker, CI/CD, Google Cloud Platform (GCP)
 
 ---
 
-## Idiomas
+## Certificaciones
 
-- Español: Nativo  
-- Inglés: Profesional por texto (intermedio)
+*   **Google Cloud Computing Foundations** (Abr. 2025)
+*   **Kubernetes in Google Cloud** (Abr. 2025)
+*   **Introduction to Cloud 101** (May. 2025)
+*   **Inteligencia Artificial y Productividad** (Feb. 2025)
+*   **Scrum Foundation Professional Certificate** (May. 2023)
 
 ---
 
 ## Contacto
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/bastiantapia07/](https://www.linkedin.com/in/bastiantapia07/)  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/bastiantapia07/)
+- 🐙 GitHub: [GitHub](https://github.com/BastianTapia)
+- 🌐 Portfolio: [bastiantapia.dev](https://bastiantapia.dev)
 - 📧 Email: **bastiantapia.dev@gmail.com**
 
 ---
