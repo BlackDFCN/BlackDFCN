@@ -5,90 +5,95 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Bastian Tapia
+  Hi, I'm Bastián Tapia
 </h3>
 
 <p align="center">
-  <strong>Full Stack Software Engineer | Backend & DevOps Specialist</strong><br/>
-  Building scalable systems · Automation · End-to-end software development
+  <strong>Software Engineer | Full Stack Developer</strong><br/>
+  Building scalable systems · Clean Code & SOLID · Automation
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BastianTapia.BastianTapia" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BastianTapia.BastianTapiaCVEn" />
 </p>
 
 ---
 
 ## About Me
 
-I am a **Full Stack Software Engineer** with comprehensive experience in **backend development, cloud infrastructure, and automation**.  
-I design and implement **end-to-end solutions** including APIs, databases, web interfaces, and cloud infrastructure, always prioritizing **scalability, performance, security, and maintainability**.
+I am a **Software Engineer** and **Full Stack Developer** specializing in the development of web systems, applications, and automation solutions using modern frontend and backend technologies.
 
-I have practical experience in **production-level projects**, both personal/commercial projects like **BlackBOT**, and professional work for **ICONSTRUYE**.  
-I am motivated by problem-solving, continuous learning, and delivering solutions that generate **real value** for users.
-
-I am seeking opportunities for:
-- Remote or on-site positions  
-- Freelance projects  
-- Full product development from conception to deployment
+I build **end-to-end solutions**: APIs, web platforms, and services integrated with external systems, designing scalable, efficient, and maintainable systems. I work by applying **SOLID** principles, **Clean Code**, and software engineering best practices, focusing on performance, code quality, and building robust products in agile environments.
 
 ---
 
-## Featured Projects
+## Work Experience
 
-### 1. BlackBOT — Discord Automation Platform
+### Full Stack Developer | Freelance (Personal)
+*Dec. 2025 — Present | Remote, Chile*
 
-**BlackBOT** is a **highly scalable Discord bot and web platform** designed for community management and streamer automation needs.
+*   **SaaS Platform**: Developed a SaaS platform for the management and automation of digital communities.
+*   **Multi-tenant Architecture**: Designed an architecture with independent instances per community over a reusable central logic.
+*   **Scalability**: Evolved custom solutions into a scalable product for multiple communities.
+*   **Integration & Automation**: Integrated with external platforms for real-time flows and automated process execution.
+*   **Admin Dashboard**: Built panels for user management, configurations, and features.
+*   **Optimization**: Implemented rate limiting, usage control, and performance optimization for high concurrency.
 
-**Technical Overview:**
-- **Monorepo architecture** using npm workspaces and TurboRepo for task orchestration
-- **Applications**: 
-  - `apps/bot` — Discord bot written in TypeScript with modular architecture (features, helpers, i18n, validations, logging, error handling)  
-  - `apps/web` — Next.js web application with Tailwind CSS, authentication, dashboard, hooks, and multilingual support
-- **Packages**: Shared modules including database (Supabase), i18n (10 languages), authentication, billing, and UI
-- **DevOps & CI/CD**: Docker, docker-compose, deployment scripts, GitHub Actions workflows
-- **Best Practices**: Modular code, strict TypeScript, secure environment variables, ESLint + Prettier + Husky + lint-staged
-- **Tech Stack**: Node.js, TypeScript, Next.js, React, Tailwind CSS, Supabase, Docker, TurboRepo, discord.js
+### Full Stack Developer | Freelance
+*Jan. 2025 — Jul. 2025 | Remote, Chile*
 
----
+*   **Digital Community**: Developed a custom full stack platform for community management.
+*   **Discord Ecosystem**: Designed a centralized system on Discord managed via a web panel.
+*   **API Integration**: Developed automated services from scratch and integrated with the Discord API for moderation and events.
+*   **Engagement**: Implemented systems for announcements, giveaways, custom commands, roles, and rewards.
+*   **Stack**: Integrated with Supabase for data and authentication, with stability mechanisms and rate limiting.
 
-### 2. ICONSTRUYE — Professional Full Stack Project
+### Full Stack Developer | IConstruye
+*Oct. 2024 — Dec. 2024 | Hybrid, Santiago, Chile*
 
-**Role:** Full Stack Developer Jr.  
-**Duration:** Oct 2024 – Dec 2024
-
-- Led the adoption and implementation of **Backstage**, an internal platform to centralize project management  
-- Integrated Backstage with **Azure DevOps**, significantly improving team efficiency and project traceability  
-- Developed standardized technical documentation and conducted team training sessions  
-- Technologies used: Node.js, TypeScript, Docker, Azure DevOps, Backstage, Git
-
----
-
-## Skills & Tech Stack
-
-**Programming Languages:** TypeScript, JavaScript, Python  
-**Backend:** Node.js, NestJS, Express, Fastify, REST APIs, WebSockets  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**DevOps & Infrastructure:** Docker, CI/CD, VPS, Cloud Platforms, Linux  
-**Frontend & UI:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
-**Other Tools:** Supabase, Discord.js, TurboRepo, ESLint, Prettier, Husky, lint-staged, PostCSS
+*   **Backstage**: Led the adoption and implementation of Backstage as an internal IT management platform.
+*   **Azure DevOps**: Integrated Backstage with Azure DevOps for development lifecycle traceability.
+*   **Documentation & Training**: Prepared standardized technical documentation and trained the team.
+*   **Agile**: Active collaboration in multidisciplinary agile environments.
 
 ---
 
-## Languages
+## Education
 
-- Spanish: Native  
-- English: Professional (written)
+*   **B.S. in Computer Science & Informatics** | Universidad Católica del Maule *(2021 — 2025)*
+*   **Telecommunications Technician** | Colegio Juan Piamarta *(2019 — 2020)*
+
+---
+
+## Skills & Stack
+
+*   **Languages:** TypeScript, JavaScript, HTML5, CSS3
+*   **Frontend:** React, Next.js
+*   **Backend:** Node.js, NestJS
+*   **Databases:** PostgreSQL
+*   **Infrastructure & DevOps:** Docker, CI/CD, Google Cloud Platform (GCP)
+
+---
+
+## Certifications
+
+*   **Google Cloud Computing Foundations** (Apr. 2025)
+*   **Kubernetes in Google Cloud** (Apr. 2025)
+*   **Introduction to Cloud 101** (May. 2025)
+*   **Artificial Intelligence and Productivity** (Feb. 2025)
+*   **Scrum Foundation Professional Certificate** (May. 2023)
 
 ---
 
 ## Contact
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/bastiantapia07/](https://www.linkedin.com/in/bastiantapia07/)  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/bastiantapia07/)
+- 🐙 GitHub: [GitHub](https://github.com/BastianTapia)
+- 🌐 Portfolio: [bastiantapia.dev](https://bastiantapia.dev)
 - 📧 Email: **bastiantapia.dev@gmail.com**
 
 ---
 
 <sub>
-Passionate about building robust and scalable systems, delivering end-to-end software solutions.
+Passionate about building robust and scalable systems, developing complete software solutions from start to finish.
 </sub>
